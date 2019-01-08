@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  background-color: #d9d9d9;
+  color: #4484ce;
+  border-top: 12px solid #f19f4d;
+  margin-bottom: 10px;
+}
+table, td {
+  border: 2px solid black;
+  margin: auto;
+  background-color: white;
+}
+
+td {
+  border: 1px solid black;
+  height: 20px;
+  width: 20px;
+}
+.headings {
+  color: #4484ce;
+  text-shadow: 2px 2px 4px #f19f4d;
+  font-weight: bold;
+  border-bottom: 12px solid #f19f4d;
+  padding-bottom: 4px;
+}
+#colorPicker {
+  width: 100px;
+  height: 75px;
+  border: 5px ridge #f9cf00;
+}
